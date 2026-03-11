@@ -1,7 +1,7 @@
 
 # About Me
 
-👋Hi there, I'm Kapindra Upreti. A passionate aspiring AI/ML enthusiast, Software Devloper, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions. Let's build something extraordinary together! I'm from Kathmandu, Nepal.🧑‍💻#Software Development #AI/ML #CyberSecurity #Web Development #DSA**
+👋Hi there, I'm Kapindra Upreti. A passionate aspiring AI/ML enthusiast, Software Devloper, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions. Let's build something extraordinary together! I'm from Kathmandu, Nepal.🧑‍💻#Software Development #AI/ML #CyberSecurity #Web Development #DSA
 
 Email Me 👉 ✉️ upretikapindra28@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ upretikapindra28@gmail.com For Collaboration/Project or Any
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** upretikapindra28@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🔗 I am a BE. Second year Computer Engineering Student. 😊😊
+## 🔗 I am a BE. Third year Computer Engineering Student. 😊😊
 
 <!-- Snake Game Repo View -->
 
