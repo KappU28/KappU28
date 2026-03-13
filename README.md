@@ -28,7 +28,6 @@ Email Me 👉 ✉️ upretikapindra28@gmail.com For Collaboration/Project or Any
 ![](https://github-readme-stats.vercel.app/api?username=KappU28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KappU28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KappU28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KappU28\&layout=compact\&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kapindra28&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
