@@ -162,8 +162,6 @@ Hey, I'm **Kapindra Upreti**, an undergraduate Computer Engineering student at *
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KappU28/KappU28/output/github-contribution-grid-snake-dark.svg"/>
@@ -263,9 +261,6 @@ graph LR
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </div>
-
----
-
 
 ---
 
